@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1670745787 source:d:\rafi c++\tp_mod12_1301210210_if-45-09\main.cpp
+	<iostream>
+	"flight.h"
+
+1670741762 source:d:\rafi c++\tp_mod12_1301210210_if-45-09\flight.cpp
+	"flight.h"
+
+1670740543 d:\rafi c++\tp_mod12_1301210210_if-45-09\flight.h
+	<iostream>
+
